@@ -1,0 +1,11 @@
+2022-09-14 12:12:12 >> User 5 uploaded NONOD0000078 with total of RM349 with bonus of RM69.8  
+2022-09-14 12:12:13 >> User 2 uploaded NONOD0000079 with total of RM349 with bonus of RM69.8  
+2022-09-14 12:12:14 >> User 3 uploaded NONOD0000080 with total of RM349 with bonus of RM69.8  
+2022-09-20 12:12:12 >> Error: exception of 0x0000070 has occured
+2022-09-23 18:15:17 >> Actor with ID of 212 with name of john2 doe2 has been added
+2022-09-23 18:15:16 >> Actor with ID of 211 with name of John6 Doe6 has been added
+2022-09-23 18:15:16 >> Actor with ID of 212 with name of john2 doe2 has been added
+2022-09-26 15:33:39 >> Actor with ID of 213 with name of John2 Doe2 has been added
+2022-09-28 12:50:49 >> Actor with ID of 214 with name of jsen mou has been added
+2022-09-28 12:57:31 >> Actor with ID of 215 with name of John3 Doe3 has been added
+2022-09-29 10:33:27 >> Actor with ID of 216 with name of John6 Doe6 has been added

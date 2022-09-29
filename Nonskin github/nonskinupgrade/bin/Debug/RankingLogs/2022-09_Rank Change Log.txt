@@ -1,0 +1,8 @@
+2022-09-14 12:12:12 >> User 5 has ranked up to 3 star VIP  
+2022-09-14 12:13:12 >> User 15 has ranked up to 2 star VIP  
+2022-09-14 12:14:12 >> User 2 has ranked up to 1 star VIP  
+2022-09-14 13:12:12 >> User 7 has ranked up to 3 star VIP
+2022-09-23 18:15:16 >> Actor with ID of 210 changed first_name from John2 to john
+2022-09-23 18:15:16 >> Actor with ID of 210 changed last_name from Doe2 to doe
+2022-09-28 16:13:52 >> Actor with ID of 200 changed first_name from lawrence to barry 
+2022-09-29 10:37:41 >> Actor with ID of 200 changed first_name from barry to lawrence 
